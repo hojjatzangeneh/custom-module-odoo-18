@@ -8,6 +8,7 @@
     This module provides a complete ERP solution for colleges, including features for managing students, courses, faculty, and more.    
     It is designed to streamline college operations and improve efficiency.
     """,
+    'maintainer': 'Hojjat Zangeneh',
     # 'depends': [
     #     'base',
     #     'mail',
@@ -36,7 +37,6 @@
     # ],
     # 'website': 'https://www.example.com',
     # 'support': ''https://www.example.com/support',
-    # 'maintainer': 'Hojjat Zangeneh',
     # 'maintainer_email': 'hojjat.zangeneh@gmail.com',
     # 'currency': 'EUR',
     # 'price': 49.99,
