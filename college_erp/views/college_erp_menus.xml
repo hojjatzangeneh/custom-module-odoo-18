@@ -4,7 +4,7 @@
         <!-- College ERP Menu -->
         <menuitem id="menu_college_erp_root"
                   name="College ERP"
-                  sequence="1" />
+                  sequence="1"  />
         <!-- Submenu without action -->
         <menuitem id="menu_college_erp_student"
                   name="Student"

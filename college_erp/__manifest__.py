@@ -20,7 +20,7 @@
     # ],
     'sequence': 1,
     'data': [
-        # 'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
         'views/college_student.xml',
         'views/college_erp_menus.xml',
     ],
